@@ -1,0 +1,11 @@
+project:
+  title: "index"
+
+format:
+  html:
+    theme: flatly
+    code-fold: true
+    toc: true
+    number-sections: true
+
+
